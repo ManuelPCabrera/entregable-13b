@@ -3,7 +3,7 @@
 #include <time.h>
 #include "funciones.h"
 
-/// @brief 
+/// @brief gfhgfh
 /// @return 
 int main()
 {
