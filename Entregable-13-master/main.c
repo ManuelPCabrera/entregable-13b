@@ -3,7 +3,8 @@
 #include <time.h>
 #include "funciones.h"
 
-
+/// @brief 
+/// @return 
 int main()
 {
     int random = rand() % 15;
